@@ -8,7 +8,7 @@ from google import genai
 app = Flask(__name__)
 
 # Configuration
-TELEGRAM_TOKEN = "8963962326:AAH7YIrX7ZDg4dcseriFXDP6gKQaBK_uFq0"
+TELEGRAM_TOKEN = "8833176453:AAEPZI6XYJiM4ofB9-xRo-YNn1Miuptnjyk"
 GEMINI_API_KEY = "AQ.Ab8RN6Ivtse-Fa9g-qI8HtkUTqspeEcYGdQR23leNDnesHtikQ"
 
 # Initialize Gemini Client
